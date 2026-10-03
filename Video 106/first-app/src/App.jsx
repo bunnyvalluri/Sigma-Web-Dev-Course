@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 106
+ * Topic: React Components, Props & JSX
+ * File: App.jsx
+ * 
+ * Description:
+ *   Creating reusable functional components, passing data via props, and JSX templating rules.
+ * ==========================================================================
+ */
 import Footer from "./components/Footer"
 import Navbar from "./components/Navbar"
 import Card from "./components/Card"

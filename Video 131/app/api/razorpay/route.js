@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 131
+ * Topic: Project: GetMeAChai - Crowdfunding Platform
+ * File: route.js
+ * 
+ * Description:
+ *   Full-stack creator funding platform with Razorpay payment integration, NextAuth, and MongoDB.
+ * ==========================================================================
+ */
 import { NextResponse } from "next/server";
 import { validatePaymentVerification } from "razorpay/dist/utils/razorpay-utils";
 import Payment from "@/models/Payment";

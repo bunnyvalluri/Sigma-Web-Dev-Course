@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 056
+ * Topic: JavaScript Conditionals & Logic
+ * File: index.js
+ * 
+ * Description:
+ *   Demonstrates if-else statements, else-if chains, comparison operators, and ternary operator.
+ * ==========================================================================
+ */
 console.log("Hello I am conditional tutorial")
 
 let age = 1;

@@ -1,3 +1,14 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 003
+  Topic: HTML Boilerplate & Meta Tags
+  File: style.css
+  
+  Description:
+    Explores the standard HTML5 boilerplate, meta viewport, charset, and external resource linking.
+  ==========================================================================
+*/
+/* Base Page Styling: Sets font, background, and default text color */
 body{
     background-color: red;
 }

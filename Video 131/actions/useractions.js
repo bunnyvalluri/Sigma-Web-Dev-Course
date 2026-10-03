@@ -1,5 +1,15 @@
 "use server"
 
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 131
+ * Topic: Project: GetMeAChai - Crowdfunding Platform
+ * File: useractions.js
+ * 
+ * Description:
+ *   Full-stack creator funding platform with Razorpay payment integration, NextAuth, and MongoDB.
+ * ==========================================================================
+ */
 import Razorpay from "razorpay"
 import Payment from "@/models/Payment"
 import connectDb from "@/db/connectDb"

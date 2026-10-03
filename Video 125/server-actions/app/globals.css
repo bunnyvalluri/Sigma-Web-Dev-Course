@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 125
+  Topic: Server Actions in Next.js
+  File: globals.css
+  
+  Description:
+    Handling form submissions and backend mutations directly on the server without manual API routes.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* CSS Custom Properties (Variables) for theme consistency */
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -15,6 +26,7 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   color: rgb(var(--foreground-rgb));

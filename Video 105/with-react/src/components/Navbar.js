@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 105
+ * Topic: Introduction to React.js
+ * File: Navbar.js
+ * 
+ * Description:
+ *   Why React: Understanding Single Page Applications, Virtual DOM, JSX, and component-based architecture.
+ * ==========================================================================
+ */
 import React from 'react'
 import Footer from './Footer'
 

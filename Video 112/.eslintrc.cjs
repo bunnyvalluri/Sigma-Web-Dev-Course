@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 112
+ * Topic: Handling Events in React
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Handling onClick, onChange, onSubmit, synthetic event objects, and controlled form inputs in React.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

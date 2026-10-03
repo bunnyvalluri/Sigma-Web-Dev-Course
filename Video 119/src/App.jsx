@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 119
+ * Topic: Form Handling & React Hook Form
+ * File: App.jsx
+ * 
+ * Description:
+ *   Managing form validation, submission states, and error messages efficiently in React.
+ * ==========================================================================
+ */
 import { useState } from 'react' 
 import './App.css'
 import { useForm } from "react-hook-form"

@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 132
+ * Topic: Navigation Hooks in Next.js
+ * File: layout.js
+ * 
+ * Description:
+ *   Utilizing useRouter, usePathname, and useSearchParams for dynamic client-side navigation.
+ * ==========================================================================
+ */
 import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "@/components/Navbar";

@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 130
+ * Topic: Project: PassOP - Password Manager
+ * File: Manager.jsx
+ * 
+ * Description:
+ *   Full-stack password manager app with React/Next.js frontend, MongoDB storage, and copy-to-clipboard.
+ * ==========================================================================
+ */
 import React from 'react'
 import { useRef, useState, useEffect } from 'react';
 import { ToastContainer, toast } from 'react-toastify';

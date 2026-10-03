@@ -1,4 +1,15 @@
 "use client"
+
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 131
+ * Topic: Project: GetMeAChai - Crowdfunding Platform
+ * File: page.js
+ * 
+ * Description:
+ *   Full-stack creator funding platform with Razorpay payment integration, NextAuth, and MongoDB.
+ * ==========================================================================
+ */
 import React, {useEffect} from 'react'
 import { useSession, signIn, signOut } from "next-auth/react"
 import { useRouter } from 'next/navigation'

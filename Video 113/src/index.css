@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 113
+  Topic: Solution: React Dynamic Cards API
+  File: index.css
+  
+  Description:
+    Complete solution fetching JSON placeholder data with useEffect and displaying responsive cards.
+  ==========================================================================
+*/
 .card{
   border: 2px solid black;
   max-width: 23vw;
@@ -8,6 +18,7 @@
   gap: 34px;
   flex-wrap: wrap;
 }
+/* Universal Selector: Reset default margin/padding and box-sizing */
 
 *{
   margin: 0;

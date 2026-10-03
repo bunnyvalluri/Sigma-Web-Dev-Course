@@ -1,4 +1,14 @@
 /*
+  ==========================================================================
+  Sigma Web Development Course - Video 102
+  Topic: Tailwind CSS Practice Project
+  File: output.css
+  
+  Description:
+    Building modern responsive landing page sections with utility classes.
+  ==========================================================================
+*/
+/*
 ! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com
 */
 
@@ -60,6 +70,7 @@ html,
 1. Remove the margin in all browsers.
 2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
 */
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   margin: 0;

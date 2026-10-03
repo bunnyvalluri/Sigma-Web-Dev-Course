@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 113
+ * Topic: Solution: React Dynamic Cards API
+ * File: App.jsx
+ * 
+ * Description:
+ *   Complete solution fetching JSON placeholder data with useEffect and displaying responsive cards.
+ * ==========================================================================
+ */
 import { useState, useEffect } from 'react'
 import Navbar from './components/Navbar'
 import './App.css'

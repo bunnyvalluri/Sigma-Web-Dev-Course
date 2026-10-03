@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 135
+  Topic: Styling Strategies in Next.js
+  File: globals.css
+  
+  Description:
+    Exploring CSS Modules (.module.css), Tailwind CSS, and global styles in Next.js applications.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* CSS Custom Properties (Variables) for theme consistency */
 
 :root {
   --background: #ffffff;
@@ -13,6 +24,7 @@
     --foreground: #ededed;
   }
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   color: var(--foreground);

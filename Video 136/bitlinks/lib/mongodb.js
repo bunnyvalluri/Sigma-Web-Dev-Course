@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 136
+ * Topic: Project: BitLinks - URL Shortener App
+ * File: mongodb.js
+ * 
+ * Description:
+ *   Full-stack URL shortener application with short link generation, redirection routes, and MongoDB.
+ * ==========================================================================
+ */
 // https://www.codewithharry.com/blogpost/%60how-to-integrate-mongodb-into-your-nextjs-apps%60/
 // lib/mongodb.js
 

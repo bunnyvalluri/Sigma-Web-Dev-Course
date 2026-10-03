@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 120
+ * Topic: Global State with Redux Toolkit
+ * File: Navbar.jsx
+ * 
+ * Description:
+ *   Setting up a Redux store, defining slices and reducers, and using useSelector & useDispatch hooks.
+ * ==========================================================================
+ */
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 

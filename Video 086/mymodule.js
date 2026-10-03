@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 086
+ * Topic: Node.js Module Systems
+ * File: mymodule.js
+ * 
+ * Description:
+ *   Comparing CommonJS (require / module.exports) with modern ECMAScript Modules (import / export).
+ * ==========================================================================
+ */
 export const a = 1 // named export
 export const b = 2 // named export
 export const c = 3 // named export

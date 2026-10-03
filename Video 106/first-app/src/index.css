@@ -1,3 +1,14 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 106
+  Topic: React Components, Props & JSX
+  File: index.css
+  
+  Description:
+    Creating reusable functional components, passing data via props, and JSX templating rules.
+  ==========================================================================
+*/
+/* Universal Selector: Reset default margin/padding and box-sizing */
 *{
   padding: 0;
   margin: 0;

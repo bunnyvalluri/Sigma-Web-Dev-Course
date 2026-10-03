@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 074
+ * Topic: JavaScript Events & Event Bubbling
+ * File: script.js
+ * 
+ * Description:
+ *   Covers addEventListener, click events, event object, event bubbling, and stopPropagation().
+ * ==========================================================================
+ */
 let button = document.getElementById("btn")
 // List of all mouse events 
 // https://developer.mozilla.org/en-US/docs/Web/API/Element#mouse_events

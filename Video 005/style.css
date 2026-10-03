@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 005
+  Topic: Images, Tables & Lists in HTML
+  File: style.css
+  
+  Description:
+    Covers embedding images (<img> with src and alt attributes) and custom page layouts.
+  ==========================================================================
+*/
 td{
     border: 2px solid black;
 }

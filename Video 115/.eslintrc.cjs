@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 115
+ * Topic: Client-Side Routing with React Router
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Configuring createBrowserRouter, RouterProvider, Link, NavLink, and nested routes in React.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

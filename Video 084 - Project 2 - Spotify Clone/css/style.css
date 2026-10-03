@@ -1,9 +1,21 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 084 - Project 2 - Spotify Clone
+  Topic: Project 2: Spotify Web Player Clone
+  File: style.css
+  
+  Description:
+    Full-featured audio streaming web application clone with playlists, playback controls, and responsive UI.
+  ==========================================================================
+*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* CSS Custom Properties (Variables) for theme consistency */
 
 
 :root{
     --a:0;
 }
+/* Universal Selector: Reset default margin/padding and box-sizing */
 * {
     margin: 0;
     padding: 0;
@@ -13,6 +25,7 @@
 .close {
     display: none;
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
     background-color: black;

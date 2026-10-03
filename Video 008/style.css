@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 008
+  Topic: Inline vs Block Elements
+  File: style.css
+  
+  Description:
+    Explains the fundamental distinction between block-level elements (div, p) and inline elements (span, a).
+  ==========================================================================
+*/
 p{
     background-color: aquamarine;
 }

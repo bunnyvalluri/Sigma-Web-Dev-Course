@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 109
+ * Topic: React DOM Access (useRef)
+ * File: App.jsx
+ * 
+ * Description:
+ *   Accessing DOM elements directly and persisting mutable values across renders without re-rendering using useRef.
+ * ==========================================================================
+ */
 import { useState, useEffect, useRef } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

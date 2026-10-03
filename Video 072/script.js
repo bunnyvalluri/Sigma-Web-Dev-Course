@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 072
+ * Topic: Solution: Random Color Boxes
+ * File: script.js
+ * 
+ * Description:
+ *   Solution generating random RGB values and applying them dynamically across DOM nodes.
+ * ==========================================================================
+ */
 console.log("Script.js initializing")
 // let boxes = document.getElementsByClassName("box")
 let boxes = document.querySelector(".container").children 

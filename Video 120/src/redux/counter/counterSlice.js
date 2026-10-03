@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 120
+ * Topic: Global State with Redux Toolkit
+ * File: counterSlice.js
+ * 
+ * Description:
+ *   Setting up a Redux store, defining slices and reducers, and using useSelector & useDispatch hooks.
+ * ==========================================================================
+ */
 import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {

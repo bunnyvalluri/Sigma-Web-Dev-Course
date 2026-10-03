@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 123
+  Topic: Routing & Dynamic Routes in Next.js
+  File: globals.css
+  
+  Description:
+    Defining static pages, dynamic route folders ([id]), catch-all routes, and navigation with next/link.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* CSS Custom Properties (Variables) for theme consistency */
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -15,6 +26,7 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   color: rgb(var(--foreground-rgb));

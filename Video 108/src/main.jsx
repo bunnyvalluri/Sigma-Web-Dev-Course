@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 108
+ * Topic: React Component Lifecycle (useEffect)
+ * File: main.jsx
+ * 
+ * Description:
+ *   Handling side effects, API fetching, subscriptions, and cleanup functions with useEffect.
+ * ==========================================================================
+ */
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'

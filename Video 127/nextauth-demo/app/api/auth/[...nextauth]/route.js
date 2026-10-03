@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 127
+ * Topic: Authentication with NextAuth / Auth.js
+ * File: route.js
+ * 
+ * Description:
+ *   Implementing secure OAuth (GitHub, Google) and session management in Next.js applications.
+ * ==========================================================================
+ */
 import NextAuth from 'next-auth'
 import GithubProvider from "next-auth/providers/github"
 

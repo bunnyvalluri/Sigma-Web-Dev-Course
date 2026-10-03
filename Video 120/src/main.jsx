@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 120
+ * Topic: Global State with Redux Toolkit
+ * File: main.jsx
+ * 
+ * Description:
+ *   Setting up a Redux store, defining slices and reducers, and using useSelector & useDispatch hooks.
+ * ==========================================================================
+ */
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'

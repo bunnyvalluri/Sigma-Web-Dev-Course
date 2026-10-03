@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 079
+ * Topic: JavaScript Error Handling
+ * File: script.js
+ * 
+ * Description:
+ *   Demonstrates robust error handling using try...catch...finally blocks and throwing custom Error objects.
+ * ==========================================================================
+ */
 let a = prompt("Enter first number")
 
 let b = prompt("Enter second number")

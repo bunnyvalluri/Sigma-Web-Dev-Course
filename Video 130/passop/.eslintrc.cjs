@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 130
+ * Topic: Project: PassOP - Password Manager
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Full-stack password manager app with React/Next.js frontend, MongoDB storage, and copy-to-clipboard.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

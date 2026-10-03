@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 129
+  Topic: Next.js Layouts & Metadata
+  File: globals.css
+  
+  Description:
+    Configuring dynamic SEO metadata, Open Graph tags, and layout hierarchies in Next.js.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* CSS Custom Properties (Variables) for theme consistency */
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -15,6 +26,7 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   color: rgb(var(--foreground-rgb));

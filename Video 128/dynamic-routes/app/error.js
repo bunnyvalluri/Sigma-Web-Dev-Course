@@ -1,4 +1,16 @@
-'use client' // Error components must be Client Components
+'use client'
+
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 128
+ * Topic: Layouts, Templates & Nested Routes
+ * File: error.js
+ * 
+ * Description:
+ *   Structuring shared UI layouts, navigation headers, and metadata across nested routes in Next.js.
+ * ==========================================================================
+ */
+// Error components must be Client Components
  
 import { useEffect } from 'react'
  

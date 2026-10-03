@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 084 - Project 2 - Spotify Clone
+ * Topic: Project 2: Spotify Web Player Clone
+ * File: script.js
+ * 
+ * Description:
+ *   Full-featured audio streaming web application clone with playlists, playback controls, and responsive UI.
+ * ==========================================================================
+ */
 console.log('Lets write JavaScript');
 let currentSong = new Audio();
 let songs;

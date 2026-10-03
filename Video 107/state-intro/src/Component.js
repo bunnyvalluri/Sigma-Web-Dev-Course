@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 107
+ * Topic: React State Management (useState)
+ * File: Component.js
+ * 
+ * Description:
+ *   Managing dynamic component state and triggering UI re-renders using the useState hook.
+ * ==========================================================================
+ */
 import React from 'react'
 
 const Component = () => {

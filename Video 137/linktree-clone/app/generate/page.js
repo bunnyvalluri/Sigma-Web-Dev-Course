@@ -1,4 +1,15 @@
 "use client"
+
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 137
+ * Topic: Project: LinkTree Clone - Link-in-Bio App
+ * File: page.js
+ * 
+ * Description:
+ *   Full-stack link-in-bio platform allowing users to claim handles, add social links, and display profile pages.
+ * ==========================================================================
+ */
 import React, { useState } from 'react'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';

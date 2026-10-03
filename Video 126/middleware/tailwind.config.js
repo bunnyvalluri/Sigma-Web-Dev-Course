@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 126
+ * Topic: Next.js Middleware
+ * File: tailwind.config.js
+ * 
+ * Description:
+ *   Intercepting requests, checking cookies, and handling redirects or authentication with middleware.js.
+ * ==========================================================================
+ */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

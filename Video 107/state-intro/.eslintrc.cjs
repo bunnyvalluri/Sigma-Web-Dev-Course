@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 107
+ * Topic: React State Management (useState)
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Managing dynamic component state and triggering UI re-renders using the useState hook.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

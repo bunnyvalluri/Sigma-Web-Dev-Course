@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 132
+  Topic: Navigation Hooks in Next.js
+  File: globals.css
+  
+  Description:
+    Utilizing useRouter, usePathname, and useSearchParams for dynamic client-side navigation.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* CSS Custom Properties (Variables) for theme consistency */
 
 :root {
   --background: #ffffff;
@@ -13,6 +24,7 @@
     --foreground: #ededed;
   }
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   color: var(--foreground);

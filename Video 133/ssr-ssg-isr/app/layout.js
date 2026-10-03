@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 133
+ * Topic: Next.js Rendering Strategies: SSR, SSG & ISR
+ * File: layout.js
+ * 
+ * Description:
+ *   Comparing Server-Side Rendering (SSR), Static Site Generation (SSG), and Incremental Static Regeneration (ISR).
+ * ==========================================================================
+ */
 import localFont from "next/font/local";
 import "./globals.css";
 

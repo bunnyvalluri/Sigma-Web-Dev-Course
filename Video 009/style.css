@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 009
+  Topic: HTML ID & Class Selectors
+  File: style.css
+  
+  Description:
+    Demonstrates assigning identifiers (id) and classes (class) to HTML elements for targeting with CSS.
+  ==========================================================================
+*/
 .red{
  color: red;
 }

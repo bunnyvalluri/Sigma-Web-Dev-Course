@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 063
+ * Topic: JavaScript Arrays & Array Methods
+ * File: mfr.js
+ * 
+ * Description:
+ *   Covers array creation, push, pop, shift, unshift, slice, splice, and higher-order methods (map, filter, reduce).
+ * ==========================================================================
+ */
 let arr = [1, 13, 5 ,7, 11];
 // let newArr = []
 // for (let index = 0; index < arr.length; index++) {

@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 123
+ * Topic: Routing & Dynamic Routes in Next.js
+ * File: page.js
+ * 
+ * Description:
+ *   Defining static pages, dynamic route folders ([id]), catch-all routes, and navigation with next/link.
+ * ==========================================================================
+ */
 import Image from "next/image";
 
 export default function Home() {

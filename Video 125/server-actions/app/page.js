@@ -1,4 +1,15 @@
 "use client"
+
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 125
+ * Topic: Server Actions in Next.js
+ * File: page.js
+ * 
+ * Description:
+ *   Handling form submissions and backend mutations directly on the server without manual API routes.
+ * ==========================================================================
+ */
 import { submitAction } from "@/actions/form";
 import { useRef } from "react";
 

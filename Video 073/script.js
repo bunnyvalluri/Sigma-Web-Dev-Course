@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 073
+ * Topic: Exercise: Dynamic YouTube Card Generator
+ * File: script.js
+ * 
+ * Description:
+ *   Challenge creating a reusable function that generates YouTube video card UI from dynamic parameters.
+ * ==========================================================================
+ */
 function createCard(title, cName, views, monthsOld, duration, thumbnail){
     // Finish this function
 }

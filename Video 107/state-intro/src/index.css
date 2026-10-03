@@ -1,3 +1,14 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 107
+  Topic: React State Management (useState)
+  File: index.css
+  
+  Description:
+    Managing dynamic component state and triggering UI re-renders using the useState hook.
+  ==========================================================================
+*/
+/* CSS Custom Properties (Variables) for theme consistency */
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -21,6 +32,7 @@ a {
 a:hover {
   color: #535bf2;
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   margin: 0;

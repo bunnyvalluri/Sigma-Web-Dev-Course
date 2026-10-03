@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 057
+ * Topic: JavaScript Loops
+ * File: index.js
+ * 
+ * Description:
+ *   Covers standard for loop, while loop, do-while loop, for...in (objects), and for...of (iterables).
+ * ==========================================================================
+ */
 console.log("I am a tutorial on Loops")
 
 let a = 1;

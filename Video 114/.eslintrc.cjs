@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 114
+ * Topic: Project: iTask - Todo Planner App
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Full React CRUD application with local storage persistence, edit/delete tasks, and Tailwind CSS.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

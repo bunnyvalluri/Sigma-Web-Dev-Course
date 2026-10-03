@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 125
+ * Topic: Server Actions in Next.js
+ * File: layout.js
+ * 
+ * Description:
+ *   Handling form submissions and backend mutations directly on the server without manual API routes.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 

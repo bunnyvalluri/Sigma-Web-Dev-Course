@@ -1,3 +1,14 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 130
+ * Topic: Project: PassOP - Password Manager
+ * File: server.js
+ * 
+ * Description:
+ *   Full-stack password manager app with React/Next.js frontend, MongoDB storage, and copy-to-clipboard.
+ * ==========================================================================
+ */
+// Import Express framework
 const express = require('express')
 const dotenv = require('dotenv')
 const { MongoClient } = require('mongodb'); 
@@ -14,6 +25,7 @@ client.connect();
 
 // App & Database
 const dbName = process.env.DB_NAME 
+// Create Express application instance
 const app = express()
 const port = 3000 
 

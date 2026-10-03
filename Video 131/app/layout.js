@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 131
+ * Topic: Project: GetMeAChai - Crowdfunding Platform
+ * File: layout.js
+ * 
+ * Description:
+ *   Full-stack creator funding platform with Razorpay payment integration, NextAuth, and MongoDB.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";

@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 108
+ * Topic: React Component Lifecycle (useEffect)
+ * File: App.jsx
+ * 
+ * Description:
+ *   Handling side effects, API fetching, subscriptions, and cleanup functions with useEffect.
+ * ==========================================================================
+ */
 import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

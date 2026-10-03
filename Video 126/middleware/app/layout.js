@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 126
+ * Topic: Next.js Middleware
+ * File: layout.js
+ * 
+ * Description:
+ *   Intercepting requests, checking cookies, and handling redirects or authentication with middleware.js.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 

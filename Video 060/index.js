@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 060
+ * Topic: JavaScript Strings & Methods
+ * File: index.js
+ * 
+ * Description:
+ *   Demonstrates string immutability, template literals (`${}`), and methods (slice, replace, toUpperCase).
+ * ==========================================================================
+ */
 console.log("This is strings tutorial")
 let a = "Harry";
 console.log(a[0]);

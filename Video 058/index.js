@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 058
+ * Topic: JavaScript Functions
+ * File: index.js
+ * 
+ * Description:
+ *   Covers function declarations, parameters, return values, and modern ES6 arrow functions.
+ * ==========================================================================
+ */
 function nice(name) {
     console.log("Hey " + name + " you are nice!")
     console.log("Hey " + name + " you are good!")

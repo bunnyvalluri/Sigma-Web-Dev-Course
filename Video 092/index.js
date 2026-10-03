@@ -1,4 +1,16 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 092
+ * Topic: EJS Template Engine with Express
+ * File: index.js
+ * 
+ * Description:
+ *   Rendering server-side dynamic HTML using Embedded JavaScript (EJS) templates, partials, and variables.
+ * ==========================================================================
+ */
+// Import Express framework
 const express = require('express')
+// Create Express application instance
 const app = express()
 const port = 3000
 

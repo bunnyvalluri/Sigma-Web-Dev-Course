@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 120
+ * Topic: Global State with Redux Toolkit
+ * File: App.jsx
+ * 
+ * Description:
+ *   Setting up a Redux store, defining slices and reducers, and using useSelector & useDispatch hooks.
+ * ==========================================================================
+ */
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 042
+  Topic: CSS 2D & 3D Transforms
+  File: style.css
+  
+  Description:
+    Demonstrates transform functions including rotate(), scale(), translate(), and skew().
+  ==========================================================================
+*/
 .wrap {
   margin: 30px auto;
   max-width: 1000px;

@@ -1,9 +1,20 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 096
+ * Topic: Mongoose ODM with Express
+ * File: main.js
+ * 
+ * Description:
+ *   Defining Mongoose Schemas, compiling Models, connecting to MongoDB, and performing database operations.
+ * ==========================================================================
+ */
 // https://www.npmjs.com/package/mongodb
 import mongoose from "mongoose";
 import express from "express";
 import { Todo } from "./models/Todo.js";
 
 let conn = await mongoose.connect("mongodb://localhost:27017/todo")
+// Create Express application instance
 const app = express()
 const port = 3000
 

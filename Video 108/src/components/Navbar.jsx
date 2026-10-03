@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 108
+ * Topic: React Component Lifecycle (useEffect)
+ * File: Navbar.jsx
+ * 
+ * Description:
+ *   Handling side effects, API fetching, subscriptions, and cleanup functions with useEffect.
+ * ==========================================================================
+ */
 import React, { useEffect } from 'react'
 
 const Navbar = ({ color }) => {

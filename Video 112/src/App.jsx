@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 112
+ * Topic: Handling Events in React
+ * File: App.jsx
+ * 
+ * Description:
+ *   Handling onClick, onChange, onSubmit, synthetic event objects, and controlled form inputs in React.
+ * ==========================================================================
+ */
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

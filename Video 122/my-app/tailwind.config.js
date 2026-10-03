@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 122
+ * Topic: Server vs Client Components in Next.js
+ * File: tailwind.config.js
+ * 
+ * Description:
+ *   Understanding the boundary between React Server Components ('use client' directive) and Client Components.
+ * ==========================================================================
+ */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

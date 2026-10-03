@@ -1,3 +1,14 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 004
+  Topic: Bookmarks & Links in HTML
+  File: style.css
+  
+  Description:
+    Demonstrates anchor tags (<a>), href attribute, target='_blank', and organizing link collections.
+  ==========================================================================
+*/
+/* Base Page Styling: Sets font, background, and default text color */
 body{
     background-color: rgb(239, 206, 223);
 }

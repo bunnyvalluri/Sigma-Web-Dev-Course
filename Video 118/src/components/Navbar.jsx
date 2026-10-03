@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 118
+ * Topic: Optimizing Callbacks (useCallback)
+ * File: Navbar.jsx
+ * 
+ * Description:
+ *   Memoizing callback functions in React to prevent re-instantiation across component renders.
+ * ==========================================================================
+ */
 import React from 'react'
 import { memo } from 'react'
 

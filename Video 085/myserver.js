@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 085
+ * Topic: Introduction to Node.js & HTTP Server
+ * File: myserver.js
+ * 
+ * Description:
+ *   Creating a backend HTTP web server from scratch using the built-in Node.js 'http' module.
+ * ==========================================================================
+ */
 // Further Reading: https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
 const http = require('node:http');
 

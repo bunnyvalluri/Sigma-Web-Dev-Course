@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 077
+ * Topic: Solution: Dynamic YouTube Card Generator
+ * File: script.js
+ * 
+ * Description:
+ *   Complete implementation dynamically constructing HTML cards with formatted view counts and durations.
+ * ==========================================================================
+ */
 function createCard(title, cName, views, monthsOld, duration, thumbnail) {
     // Finish this function
     let viewStr

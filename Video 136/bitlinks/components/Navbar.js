@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 136
+ * Topic: Project: BitLinks - URL Shortener App
+ * File: Navbar.js
+ * 
+ * Description:
+ *   Full-stack URL shortener application with short link generation, redirection routes, and MongoDB.
+ * ==========================================================================
+ */
 import React from 'react'
 import Link from 'next/link'
 

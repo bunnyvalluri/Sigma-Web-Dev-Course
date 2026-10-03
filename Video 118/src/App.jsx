@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 118
+ * Topic: Optimizing Callbacks (useCallback)
+ * File: App.jsx
+ * 
+ * Description:
+ *   Memoizing callback functions in React to prevent re-instantiation across component renders.
+ * ==========================================================================
+ */
 import { useState, useCallback } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

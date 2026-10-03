@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 136
+ * Topic: Project: BitLinks - URL Shortener App
+ * File: layout.js
+ * 
+ * Description:
+ *   Full-stack URL shortener application with short link generation, redirection routes, and MongoDB.
+ * ==========================================================================
+ */
 import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "@/components/Navbar"; 

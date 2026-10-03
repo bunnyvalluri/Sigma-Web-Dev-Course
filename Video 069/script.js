@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 069
+ * Topic: Solution: Calculate Factorial
+ * File: script.js
+ * 
+ * Description:
+ *   Detailed solution comparing loop-based and functional reduce() factorial implementations.
+ * ==========================================================================
+ */
 let a = 7
 
 function factorial(number){

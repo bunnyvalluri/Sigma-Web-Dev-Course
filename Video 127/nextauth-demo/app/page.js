@@ -1,4 +1,15 @@
 "use client"
+
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 127
+ * Topic: Authentication with NextAuth / Auth.js
+ * File: page.js
+ * 
+ * Description:
+ *   Implementing secure OAuth (GitHub, Google) and session management in Next.js applications.
+ * ==========================================================================
+ */
 import { useSession, signIn, signOut } from "next-auth/react"
 
 export default function Component() {

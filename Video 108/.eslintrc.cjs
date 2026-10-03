@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 108
+ * Topic: React Component Lifecycle (useEffect)
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Handling side effects, API fetching, subscriptions, and cleanup functions with useEffect.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

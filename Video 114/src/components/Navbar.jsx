@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 114
+ * Topic: Project: iTask - Todo Planner App
+ * File: Navbar.jsx
+ * 
+ * Description:
+ *   Full React CRUD application with local storage persistence, edit/delete tasks, and Tailwind CSS.
+ * ==========================================================================
+ */
 import React from 'react'
 
 const Navbar = () => {

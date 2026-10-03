@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 112
+  Topic: Handling Events in React
+  File: App.css
+  
+  Description:
+    Handling onClick, onChange, onSubmit, synthetic event objects, and controlled form inputs in React.
+  ==========================================================================
+*/
 #root {
   max-width: 1280px;
   margin: 0 auto;

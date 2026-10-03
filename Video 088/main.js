@@ -1,4 +1,16 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 088
+ * Topic: Introduction to Express.js
+ * File: main.js
+ * 
+ * Description:
+ *   Setting up an Express web server, defining routes, and handling basic GET and POST requests.
+ * ==========================================================================
+ */
+// Import Express framework
 const express = require('express')
+// Create Express application instance
 const app = express()
 const port = 3000
 

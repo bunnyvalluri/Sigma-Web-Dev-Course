@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 110
+ * Topic: Conditional Rendering & List Rendering
+ * File: App.jsx
+ * 
+ * Description:
+ *   Rendering elements conditionally (ternary, &&) and mapping over arrays with unique key props in React.
+ * ==========================================================================
+ */
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 124
+ * Topic: API Route Handlers in Next.js
+ * File: layout.js
+ * 
+ * Description:
+ *   Creating backend REST API endpoints using route.js files with GET, POST, PUT, DELETE handlers.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 

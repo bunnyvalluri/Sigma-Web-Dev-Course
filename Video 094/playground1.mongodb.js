@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 094
+ * Topic: Introduction to MongoDB
+ * File: playground1.mongodb.js
+ * 
+ * Description:
+ *   Overview of NoSQL databases, collections, BSON documents, and running queries in MongoDB Playground.
+ * ==========================================================================
+ */
 
 use('SigmaDatabase');
 

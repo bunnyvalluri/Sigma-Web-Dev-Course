@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 116
+  Topic: Global State with React Context API
+  File: App.css
+  
+  Description:
+    Eliminating prop drilling by creating Contexts, Providers, and consuming shared state with useContext.
+  ==========================================================================
+*/
 #root {
   max-width: 1280px;
   margin: 0 auto;

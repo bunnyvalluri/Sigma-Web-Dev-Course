@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 106
+  Topic: React Components, Props & JSX
+  File: Card.css
+  
+  Description:
+    Creating reusable functional components, passing data via props, and JSX templating rules.
+  ==========================================================================
+*/
 .card{
     width: 20vw;
     border: 2px solid black;

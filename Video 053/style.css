@@ -1,10 +1,22 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 053
+  Topic: Netflix India UI Clone Project
+  File: style.css
+  
+  Description:
+    Building a faithful recreation of the Netflix landing page with hero banner, FAQ accordion, and footer.
+  ==========================================================================
+*/
 @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap');
+/* Universal Selector: Reset default margin/padding and box-sizing */
 
 * {
     padding: 0;
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
     background-color: black;

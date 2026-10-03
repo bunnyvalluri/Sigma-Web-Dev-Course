@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 098
+  Topic: Tailwind CSS Setup & Workflow
+  File: input.css
+  
+  Description:
+    Installing Tailwind CSS, configuring tailwind.config.js, and utilizing utility-first styling classes.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

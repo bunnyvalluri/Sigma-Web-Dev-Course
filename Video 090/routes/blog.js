@@ -1,3 +1,14 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 090
+ * Topic: Express.js Middlewares
+ * File: blog.js
+ * 
+ * Description:
+ *   Understanding middleware execution flow, req/res modification, next(), and custom logging middlewares.
+ * ==========================================================================
+ */
+// Import Express framework
 const express = require('express')
 const router = express.Router()
 

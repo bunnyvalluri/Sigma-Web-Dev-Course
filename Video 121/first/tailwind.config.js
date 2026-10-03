@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 121
+ * Topic: Introduction to Next.js
+ * File: tailwind.config.js
+ * 
+ * Description:
+ *   Overview of Next.js App Router, file-based routing, server-side rendering, and performance benefits.
+ * ==========================================================================
+ */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

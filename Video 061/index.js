@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 061
+ * Topic: Solution: Faulty Calculator
+ * File: index.js
+ * 
+ * Description:
+ *   Complete implementation and walkthrough of the faulty calculator algorithm.
+ * ==========================================================================
+ */
 /* Create a faulty calculator using JavaScript
 
 This faulty calculator does following:

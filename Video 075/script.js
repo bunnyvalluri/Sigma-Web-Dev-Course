@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 075
+ * Topic: Callbacks & Promises in JavaScript
+ * File: script.js
+ * 
+ * Description:
+ *   Explains asynchronous programming, callback hell, Promise creation, .then(), .catch(), and Promise.all().
+ * ==========================================================================
+ */
 console.log("Harry is a hacker")
 console.log("Rohan is a hecker")
 

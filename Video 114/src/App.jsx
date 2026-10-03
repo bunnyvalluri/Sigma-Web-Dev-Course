@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 114
+ * Topic: Project: iTask - Todo Planner App
+ * File: App.jsx
+ * 
+ * Description:
+ *   Full React CRUD application with local storage persistence, edit/delete tasks, and Tailwind CSS.
+ * ==========================================================================
+ */
 import { useState, useEffect } from 'react'
 import Navbar from './components/Navbar'
 import { FaEdit } from "react-icons/fa";

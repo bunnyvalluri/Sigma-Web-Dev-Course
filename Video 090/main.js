@@ -1,4 +1,16 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 090
+ * Topic: Express.js Middlewares
+ * File: main.js
+ * 
+ * Description:
+ *   Understanding middleware execution flow, req/res modification, next(), and custom logging middlewares.
+ * ==========================================================================
+ */
+// Import Express framework
 const express = require('express')
+// Create Express application instance
 const app = express()
 const port = 3000
 const blog = require('./routes/blog')

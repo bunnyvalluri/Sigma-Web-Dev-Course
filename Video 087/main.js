@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 087
+ * Topic: Node.js File System Module
+ * File: main.js
+ * 
+ * Description:
+ *   Working with files using the 'fs' module (readFile, writeFile, appendFile) and fs/promises.
+ * ==========================================================================
+ */
 const fs = require("fs")
 // const fs = require("fs/promises")
  

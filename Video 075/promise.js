@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 075
+ * Topic: Callbacks & Promises in JavaScript
+ * File: promise.js
+ * 
+ * Description:
+ *   Explains asynchronous programming, callback hell, Promise creation, .then(), .catch(), and Promise.all().
+ * ==========================================================================
+ */
 console.log('This is Promises');
 
 let prom1 = new Promise((resolve, reject) => {

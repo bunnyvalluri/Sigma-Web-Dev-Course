@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 116
+ * Topic: Global State with React Context API
+ * File: Button.jsx
+ * 
+ * Description:
+ *   Eliminating prop drilling by creating Contexts, Providers, and consuming shared state with useContext.
+ * ==========================================================================
+ */
 import React, {useContext} from 'react'
 import Component1 from './Component1'
 import { counterContext } from '../context/context'

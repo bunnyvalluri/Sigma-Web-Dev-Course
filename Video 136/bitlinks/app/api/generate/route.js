@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 136
+ * Topic: Project: BitLinks - URL Shortener App
+ * File: route.js
+ * 
+ * Description:
+ *   Full-stack URL shortener application with short link generation, redirection routes, and MongoDB.
+ * ==========================================================================
+ */
 
 import clientPromise from "@/lib/mongodb"
 

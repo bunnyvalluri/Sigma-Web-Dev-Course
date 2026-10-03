@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 126
+ * Topic: Next.js Middleware
+ * File: middleware.js
+ * 
+ * Description:
+ *   Intercepting requests, checking cookies, and handling redirects or authentication with middleware.js.
+ * ==========================================================================
+ */
 // import { NextResponse } from 'next/server'
  
 // // This function can be marked `async` if using `await` inside

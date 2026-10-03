@@ -1,6 +1,17 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 119
+ * Topic: Form Handling & React Hook Form
+ * File: server.js
+ * 
+ * Description:
+ *   Managing form validation, submission states, and error messages efficiently in React.
+ * ==========================================================================
+ */
 import express  from "express"
 import cors from "cors"
 import bodyParser from "body-parser"
+// Create Express application instance
 const app = express()
 const port = 3000
 

@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 121
+  Topic: Introduction to Next.js
+  File: globals.css
+  
+  Description:
+    Overview of Next.js App Router, file-based routing, server-side rendering, and performance benefits.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* CSS Custom Properties (Variables) for theme consistency */
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -15,6 +26,7 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+/* Base Page Styling: Sets font, background, and default text color */
 
 body {
   color: rgb(var(--foreground-rgb));

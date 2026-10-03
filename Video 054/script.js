@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 054
+ * Topic: Introduction to JavaScript & Node.js
+ * File: script.js
+ * 
+ * Description:
+ *   First steps with JavaScript, running scripts in the browser console and via Node.js runtime.
+ * ==========================================================================
+ */
 alert("Hello World");
 
 console.log("Code is running...")

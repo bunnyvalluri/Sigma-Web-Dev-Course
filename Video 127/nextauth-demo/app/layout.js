@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 127
+ * Topic: Authentication with NextAuth / Auth.js
+ * File: layout.js
+ * 
+ * Description:
+ *   Implementing secure OAuth (GitHub, Google) and session management in Next.js applications.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 import SessionWrapper from "./component/SessionWrapper";

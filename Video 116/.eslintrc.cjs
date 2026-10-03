@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 116
+ * Topic: Global State with React Context API
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Eliminating prop drilling by creating Contexts, Providers, and consuming shared state with useContext.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 082
+ * Topic: Advanced JavaScript Concepts
+ * File: script.js
+ * 
+ * Description:
+ *   Covers destructuring assignment, rest & spread operators (...), variable hoisting, and closures.
+ * ==========================================================================
+ */
 console.log(a1);
 
 

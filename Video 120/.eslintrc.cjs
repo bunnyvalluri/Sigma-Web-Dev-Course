@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 120
+ * Topic: Global State with Redux Toolkit
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Setting up a Redux store, defining slices and reducers, and using useSelector & useDispatch hooks.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

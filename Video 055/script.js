@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 055
+ * Topic: JavaScript Variables & Data Types
+ * File: script.js
+ * 
+ * Description:
+ *   Explains var, let, const, primitive types (number, string, boolean, null, undefined) and Objects.
+ * ==========================================================================
+ */
 console.log("Hey this is tutorial 55");
 
 var a = 5;

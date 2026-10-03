@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 102
+  Topic: Tailwind CSS Practice Project
+  File: input.css
+  
+  Description:
+    Building modern responsive landing page sections with utility classes.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

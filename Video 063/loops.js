@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 063
+ * Topic: JavaScript Arrays & Array Methods
+ * File: loops.js
+ * 
+ * Description:
+ *   Covers array creation, push, pop, shift, unshift, slice, splice, and higher-order methods (map, filter, reduce).
+ * ==========================================================================
+ */
 let a = [1, 93, 5, 6, 88]
 
 

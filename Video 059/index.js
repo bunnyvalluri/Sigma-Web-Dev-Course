@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 059
+ * Topic: Exercise: Faulty Calculator
+ * File: index.js
+ * 
+ * Description:
+ *   Logic challenge creating a calculator that performs flawed calculations 10% of the time.
+ * ==========================================================================
+ */
 /* Create a faulty calculator using JavaScript
 
 This faulty calculator does following:

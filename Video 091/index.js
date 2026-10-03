@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 091
+ * Topic: Exercise: Clear the Clutter File Organizer
+ * File: index.js
+ * 
+ * Description:
+ *   Challenge building a Node.js CLI script that organizes files in a directory by file extension.
+ * ==========================================================================
+ */
 // You have to write a Node.js program to clear clutter inside of a directory and organize the contents of that directory into different folders
 
 // for example, these files become:

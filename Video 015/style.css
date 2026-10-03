@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 015
+  Topic: CSS Selectors & Specificity Basics
+  File: style.css
+  
+  Description:
+    Demonstrates element selectors, class selectors, ID selectors, and basic styling rules.
+  ==========================================================================
+*/
 h1{
     background-color: red;
     color: yellow;

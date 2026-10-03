@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 097
+ * Topic: Exercise: Generate Dummy Data in MongoDB
+ * File: main.js
+ * 
+ * Description:
+ *   Challenge building an Express route that automatically generates and seeds random documents in MongoDB.
+ * ==========================================================================
+ */
 // Generate a dummy data in this format in a collection called employees in a db called company
 
 // {

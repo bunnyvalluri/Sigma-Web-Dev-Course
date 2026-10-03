@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 110
+ * Topic: Conditional Rendering & List Rendering
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Rendering elements conditionally (ternary, &&) and mapping over arrays with unique key props in React.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

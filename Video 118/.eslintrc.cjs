@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 118
+ * Topic: Optimizing Callbacks (useCallback)
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Memoizing callback functions in React to prevent re-instantiation across component renders.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

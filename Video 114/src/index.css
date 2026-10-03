@@ -1,6 +1,17 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 114
+  Topic: Project: iTask - Todo Planner App
+  File: index.css
+  
+  Description:
+    Full React CRUD application with local storage persistence, edit/delete tasks, and Tailwind CSS.
+  ==========================================================================
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* Base Page Styling: Sets font, background, and default text color */
 
 
 body{

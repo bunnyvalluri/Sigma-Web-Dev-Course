@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 106
+ * Topic: React Components, Props & JSX
+ * File: Card.jsx
+ * 
+ * Description:
+ *   Creating reusable functional components, passing data via props, and JSX templating rules.
+ * ==========================================================================
+ */
 import React from 'react'
 import "./Card.css"
 

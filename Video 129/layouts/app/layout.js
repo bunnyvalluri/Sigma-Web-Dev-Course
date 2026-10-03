@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 129
+ * Topic: Next.js Layouts & Metadata
+ * File: layout.js
+ * 
+ * Description:
+ *   Configuring dynamic SEO metadata, Open Graph tags, and layout hierarchies in Next.js.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";

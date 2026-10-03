@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 119
+ * Topic: Form Handling & React Hook Form
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Managing form validation, submission states, and error messages efficiently in React.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

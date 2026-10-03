@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 117
+ * Topic: Performance Optimization (useMemo)
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Memoizing computationally expensive calculations in React to prevent unnecessary recalculations.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

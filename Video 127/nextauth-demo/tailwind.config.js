@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 127
+ * Topic: Authentication with NextAuth / Auth.js
+ * File: tailwind.config.js
+ * 
+ * Description:
+ *   Implementing secure OAuth (GitHub, Google) and session management in Next.js applications.
+ * ==========================================================================
+ */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

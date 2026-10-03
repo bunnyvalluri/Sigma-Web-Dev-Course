@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 113
+ * Topic: Solution: React Dynamic Cards API
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Complete solution fetching JSON placeholder data with useEffect and displaying responsive cards.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

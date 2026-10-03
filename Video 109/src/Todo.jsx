@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 109
+ * Topic: React DOM Access (useRef)
+ * File: Todo.jsx
+ * 
+ * Description:
+ *   Accessing DOM elements directly and persisting mutable values across renders without re-rendering using useRef.
+ * ==========================================================================
+ */
 import React from 'react'
 
 const Todo = () => {

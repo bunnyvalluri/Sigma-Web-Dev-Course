@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 080
+ * Topic: Classes & Object-Oriented JavaScript
+ * File: gs.js
+ * 
+ * Description:
+ *   Covers ES6 classes, constructor functions, inheritance with extends/super, and getters/setters.
+ * ==========================================================================
+ */
 class User {
 
     constructor(name) {

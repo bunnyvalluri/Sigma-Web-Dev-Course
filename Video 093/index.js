@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 093
+ * Topic: Solution: Clear the Clutter Organizer
+ * File: index.js
+ * 
+ * Description:
+ *   Complete Node.js script using fs and path modules to sort messy folders into clean categories.
+ * ==========================================================================
+ */
 // You have to write a Node.js program to clear clutter inside of a directory and organize the contents of that directory into different folders
 
 // for example, these files become:

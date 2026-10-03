@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 124
+ * Topic: API Route Handlers in Next.js
+ * File: tailwind.config.js
+ * 
+ * Description:
+ *   Creating backend REST API endpoints using route.js files with GET, POST, PUT, DELETE handlers.
+ * ==========================================================================
+ */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

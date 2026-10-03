@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 117
+ * Topic: Performance Optimization (useMemo)
+ * File: App.jsx
+ * 
+ * Description:
+ *   Memoizing computationally expensive calculations in React to prevent unnecessary recalculations.
+ * ==========================================================================
+ */
 import { useState, useMemo } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

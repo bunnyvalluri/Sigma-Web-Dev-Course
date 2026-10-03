@@ -1,3 +1,13 @@
+/*
+  ==========================================================================
+  Sigma Web Development Course - Video 106
+  Topic: React Components, Props & JSX
+  File: App.css
+  
+  Description:
+    Creating reusable functional components, passing data via props, and JSX templating rules.
+  ==========================================================================
+*/
 #root {
   max-width: 1280px;
   margin: 0 auto;

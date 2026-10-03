@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 106
+ * Topic: React Components, Props & JSX
+ * File: .eslintrc.cjs
+ * 
+ * Description:
+ *   Creating reusable functional components, passing data via props, and JSX templating rules.
+ * ==========================================================================
+ */
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },

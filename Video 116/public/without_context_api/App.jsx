@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 116
+ * Topic: Global State with React Context API
+ * File: App.jsx
+ * 
+ * Description:
+ *   Eliminating prop drilling by creating Contexts, Providers, and consuming shared state with useContext.
+ * ==========================================================================
+ */
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

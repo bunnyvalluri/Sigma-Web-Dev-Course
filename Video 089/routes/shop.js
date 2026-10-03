@@ -1,3 +1,14 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 089
+ * Topic: Express Request, Response & Routers
+ * File: shop.js
+ * 
+ * Description:
+ *   Handling route parameters (:param), query strings, response methods (send, json, download), and express.Router.
+ * ==========================================================================
+ */
+// Import Express framework
 const express = require('express')
 const router = express.Router()
 

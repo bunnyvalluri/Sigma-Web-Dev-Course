@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 076
+ * Topic: Async/Await & Fetch API
+ * File: script.js
+ * 
+ * Description:
+ *   Modern asynchronous JavaScript using async functions, await keyword, and consuming REST APIs with fetch().
+ * ==========================================================================
+ */
 // async function getData() {
 //     // Simulate getting data from a server
 //     return new Promise((resolve, reject) => {

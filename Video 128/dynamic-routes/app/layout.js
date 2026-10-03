@@ -1,3 +1,13 @@
+/**
+ * ==========================================================================
+ * Sigma Web Development Course - Video 128
+ * Topic: Layouts, Templates & Nested Routes
+ * File: layout.js
+ * 
+ * Description:
+ *   Structuring shared UI layouts, navigation headers, and metadata across nested routes in Next.js.
+ * ==========================================================================
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 
