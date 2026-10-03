@@ -54,11 +54,11 @@ flowchart LR
 
 | Phase | Topics Covered | Key Folders |
 | :--- | :--- | :--- |
-| **01. Foundations** | HTML5 Semantics, Elements, Forms, Media, Tables | `Video 01` – `Video 15` |
-| **02. CSS Mastery** | Selectors, Box Model, Flexbox, CSS Grid, Transitions, Media Queries | `Video 16` – `Video 53` |
-| **03. JavaScript Engine** | Syntax, Loops, Functions, Arrays, Objects, DOM Manipulation, Events, Async/Await | `Video 54` – `Video 83` |
-| **04. Capstone Projects** | Spotify Clone, Interactive Web Apps, Music Players | `Video 84+` |
-| **05. Server-Side & APIs** | Node.js Runtime, NPM, Express.js Middleware, Routing, Template Engines | `Video 85` – `Video 105` |
+| **01. Foundations** | HTML5 Semantics, Elements, Forms, Media, Tables | `Video 001` – `Video 015` |
+| **02. CSS Mastery** | Selectors, Box Model, Flexbox, CSS Grid, Transitions, Media Queries | `Video 016` – `Video 053` |
+| **03. JavaScript Engine** | Syntax, Loops, Functions, Arrays, Objects, DOM Manipulation, Events, Async/Await | `Video 054` – `Video 083` |
+| **04. Capstone Projects** | Spotify Clone, Interactive Web Apps, Music Players | `Video 084+` |
+| **05. Server-Side & APIs** | Node.js Runtime, NPM, Express.js Middleware, Routing, Template Engines | `Video 085` – `Video 105` |
 | **06. Databases & ORM** | MongoDB Compass, Atlas, Mongoose Models, CRUD APIs | `Video 106` – `Video 115` |
 | **07. Modern Frameworks** | React Components, State, Hooks, Next.js App Router, Full Stack Integration | `Video 116` – `Video 137` |
 
@@ -67,7 +67,7 @@ flowchart LR
 ## 🚀 Featured Projects
 
 ### 🎵 Project: Spotify Web Player Clone
-> **Location:** [`Video 84 - Project 2 - Spotify Clone`](file:///c:/Users/vallu/OneDrive/Desktop/Full%20stack%20projects/code_with_Rahul/Video%2084%20-%20Project%202%20-%20Spotify%20Clone)
+> **Location:** [`Video 084 - Project 2 - Spotify Clone`](file:///c:/Users/vallu/OneDrive/Desktop/Full%20stack%20projects/code_with_Rahul/Video%20084%20-%20Project%202%20-%20Spotify%20Clone)
 
 - **Highlights:** Dynamic playlist rendering, custom audio player controls (play/pause, seekbar, volume control), responsive sidebar layout, and Spotify-inspired dark UI.
 - **Tech Stack:** Vanilla JavaScript, HTML5 Audio API, Modern CSS3 Flexbox/Grid.
@@ -92,16 +92,16 @@ flowchart LR
 ## 📂 Repository Structure
 
 ```plaintext
-code_with_Rahul/
-├── Video 01/             # Introduction to Web Development & Setup
-├── Video 02 - 15/        # HTML5 Core, Elements, Forms & Tables
-├── Video 16 - 53/        # CSS3, Flexbox, Grid, Animations & Responsive Design
-├── Video 54 - 83/        # JavaScript Essentials, DOM & Asynchronous Programming
-├── Video 84 - Project/   # Capstone Project: Spotify Clone
-├── Video 85 - 105/       # Node.js, NPM Packages & Express.js Backends
-├── Video 106 - 115/      # Database Systems, MongoDB & Mongoose
-├── Video 116 - 137/      # React.js & Next.js Modern Full Stack
-└── README.md             # Project documentation
+Sigma-Web-Dev-Course/
+├── Video 001/             # Introduction to Web Development & Setup
+├── Video 002 - 015/       # HTML5 Core, Elements, Forms & Tables
+├── Video 016 - 053/       # CSS3, Flexbox, Grid, Animations & Responsive Design
+├── Video 054 - 083/       # JavaScript Essentials, DOM & Asynchronous Programming
+├── Video 084 - Project/   # Capstone Project: Spotify Clone
+├── Video 085 - 105/       # Node.js, NPM Packages & Express.js Backends
+├── Video 106 - 115/       # Database Systems, MongoDB & Mongoose
+├── Video 116 - 137/       # React.js & Next.js Modern Full Stack
+└── README.md              # Project documentation
 ```
 
 ---
@@ -116,7 +116,7 @@ cd Sigma-Web-Dev-Course
 
 ### 2. Run a specific module / project
 - **For Static / Frontend Lessons (HTML/CSS/JS):**
-  - Open any folder (e.g., `Video 84 - Project 2 - Spotify Clone`)
+  - Open any folder (e.g., `Video 084 - Project 2 - Spotify Clone`)
   - Launch with **VS Code Live Server** or double-click `index.html`.
 
 - **For Backend / Node.js Lessons:**
